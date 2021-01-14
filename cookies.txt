@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.bodyfreq.com	TRUE	/	FALSE	1999999999	EPF_SESS	fgvuleoh17fofakvrsivhbqff5
+.bodyfreq.com	TRUE	/	FALSE	1999999999	bf_lang_d	ru
+

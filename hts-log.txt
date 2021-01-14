@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 14 Jan 2021 13:38:13 at https://ru.bodyfreq.com/ +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv
+(winhttrack -qwC2%Pns2u1%s%uN0%I0p3DaK0H0%kf2A250000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://ru.bodyfreq.com/ -O1 "D:\Websites\ru.bodyfreq.com\ru.bodyfreq.com" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:40:03	Error: 	"Not Found" (404) at link https://s.bodyfreq.com/interface/i/jqueryui/ui-bg_flat_75_ffffff_40x100.png (from https://s.bodyfreq.com/css/main/bodyfreq.css)
+13:40:03	Error: 	"Not Found" (404) at link https://s.bodyfreq.com/interface/i/jqueryui/ui-bg_flat_0_aaaaaa_40x100.png (from https://s.bodyfreq.com/css/main/bodyfreq.css)
+13:40:03	Error: 	"Not Found" (404) at link https://s.bodyfreq.com/fonts/zocial-regular-webfont.svg (from https://s.bodyfreq.com/css/main/bodyfreq.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 47 seconds : 1547 links scanned, 1543 files written (34387979 bytes overall) [17536215 bytes received at 37550 bytes/sec], 24612373 bytes transferred using HTTP compression in 1418 files, ratio 29%, 32.1 requests per connection
+(3 errors, 0 warnings, 0 messages)
